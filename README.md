@@ -12,7 +12,7 @@ Personally, I prefer the Gulp over the built-in .NET Core bundles. My projects u
 </p>
 
 <p>
-There are alternatives, for example ASP.NET MVC Boilerplate template that uses gulp. Since Boilerplate is quite heavy template I decided to create my own lightweight ASP.NET Core MVC6 Gulp Template. This will be described in my next article about such lightweight template.
+There are alternatives, for example ASP.NET MVC Boilerplate template that uses gulp. Since Boilerplate is quite heavy template I decided to create my own lightweight ASP.NET Core MVC6 Gulp Template.
 </p>
 
 <a href="http://www.ivansivak.net/blog/aspnet-core-overview-changes" target="_blank">http://www.ivansivak.net/blog/aspnet-core-overview-changes</a>
