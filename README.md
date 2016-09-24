@@ -1,4 +1,4 @@
-# ASP.NET Core MVC6 Gulp Template
+# ASP.NET Core MVC6 Lightweight Gulp Template
 ASP.NET Core MVC6 Lightweight Gulp Template
 
 <a href="http://www.ivansivak.net/blog/aspnet-core-mvc6-gulp-template" target="_blank">http://www.ivansivak.net/blog/aspnet-core-mvc6-gulp-template</a>
@@ -14,3 +14,5 @@ Personally, I prefer the Gulp over the built-in .NET Core bundles. My projects u
 <p>
 There are alternatives, for example ASP.NET MVC Boilerplate template that uses gulp. The whole story behind .NET Core default web template and why it doesn't use gulp is described here. Since Boilerplate is quite heavy template I decided to create my own lightweight ASP.NET Core MVC6 Gulp Template. This will be described in my next article about such lightweight template.
 </p>
+
+<a href="http://www.ivansivak.net/blog/aspnet-core-overview-changes" target="_blank">http://www.ivansivak.net/blog/aspnet-core-overview-changes</a>
