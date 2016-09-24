@@ -1,0 +1,1 @@
+var Utils=function(t){var n=function(t){return t<=1?t:t*n(t-1)};return{fact:n}}(this,void 0),MyApp=function(){var t=function(t){$("h1:last").append("Factorial of 5 = "+Utils.fact(5))};return{start:t}}(this,void 0);MyApp.start();
